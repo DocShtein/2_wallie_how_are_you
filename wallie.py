@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # -*- coding: utf-8 -*-
+=======
+>>>>>>> 61ee37464e4c2dcb0172338e7af408140faef17d
 import random
 
 
